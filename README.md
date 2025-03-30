@@ -1,11 +1,13 @@
 # Coding Assistant with DeepSeek LangChain
-![Uploading Screenshot 2025-03-30 at 15.11.26.png…]()
+<img width="1459" alt="Screenshot 2025-03-30 at 15 11 26" src="https://github.com/user-attachments/assets/618fc51d-0ad3-4f09-88b1-a86348cd1c72" />
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Built%20with-Flask-lightgrey?logo=flask&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Embeddings-Weaviate-orange?logo=weaviate&logoColor=white)
-![Llama](https://img.shields.io/badge/LLM-Ollama-yellow?logo=llama&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
+![Flask](https://img.shields.io/badge/Built%20with-Flask-lightgrey?logo=flask)
+![Weaviate](https://img.shields.io/badge/Embeddings-Weaviate-orange)
+![Llama](https://img.shields.io/badge/LLM-Ollama-yellow)
 ![License](https://img.shields.io/badge/License-MIT-green)
+
 
 ## Overview
 This project is a **Streamlit-based AI Coding Assistant** powered by **DeepSeek LLM** and **LangChain**. It enables users to interact with an AI model for intelligent responses, leveraging LangChain's capabilities for enhanced conversational experiences.
