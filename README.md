@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![Weaviate](https://img.shields.io/badge/Embeddings-Weaviate-orange?logo=weaviate)
-![Llama](https://img.shields.io/badge/LLM-Ollama-yellow?logo=abstract)
+![Llama](https://img.shields.io/badge/LLM-Ollama-yellow)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 
