@@ -1,4 +1,5 @@
 # Coding Assistant with DeepSeek LangChain
+![Uploading Screenshot 2025-03-30 at 15.11.26.png…]()
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-red?logo=streamlit)
