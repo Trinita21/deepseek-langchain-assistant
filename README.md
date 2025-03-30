@@ -1,9 +1,10 @@
 # Coding Assistant with DeepSeek LangChain
 ![Uploading Screenshot 2025-03-30 at 15.11.26.png…]()
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
-![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-red?logo=streamlit)
-![LangChain](https://img.shields.io/badge/Powered%20by-LangChain-orange)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Built%20with-Flask-lightgrey?logo=flask&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Embeddings-Weaviate-orange?logo=weaviate&logoColor=white)
+![Llama](https://img.shields.io/badge/LLM-Ollama-yellow?logo=llama&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## Overview
