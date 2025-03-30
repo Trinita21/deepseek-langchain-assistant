@@ -2,10 +2,10 @@
 <img width="1459" alt="Screenshot 2025-03-30 at 15 11 26" src="https://github.com/user-attachments/assets/618fc51d-0ad3-4f09-88b1-a86348cd1c72" />
 
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
-![Flask](https://img.shields.io/badge/Flask-lightgrey)
-![Weaviate](https://img.shields.io/badge/Embeddings-Weaviate-orange)
-![Llama](https://img.shields.io/badge/LLM-Ollama-yellow)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Embeddings-Weaviate-orange?logo=weaviate)
+![Llama](https://img.shields.io/badge/LLM-Ollama-yellow?logo=abstract)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 
